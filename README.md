@@ -17,13 +17,7 @@
   <img src="https://img.shields.io/badge/No%20docstrings-on%20obvious%20fns-ff4d6d?style=flat-square&labelColor=111111" />
 </p>
 
-<br />
-
-> **Compact. Idiomatic. No noise. No hand-holding.**
-> 
-> *Built for developers who think in code — not in explanations.*
-
-<br />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Kanishk0107.dense-coder&left_color=0a0a0a&right_color=00ff9d&left_text=repo%20views" />
 
 </div>
 
