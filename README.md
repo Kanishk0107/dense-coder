@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Dense Coder Logo" width="150" />
+<img src="logo.png" alt="Dense Coder Logo" width="150" />
 
 # Dense Coder
 
